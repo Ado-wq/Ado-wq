@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ado-wq/Ado-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Technologies i have worked with and currently study:
 
-   - Java (the main language of study)
+   - Java 
         Maven, Spring, JUnit Testing
 
    - Javascript
