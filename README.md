@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 I'm Adnan and im a System development student at Teknikhögskolan, Gothenburg
+
+
+
+Technologies i have worked with and currently study:
+
+   - Java (the main language of study)
+        Maven, Spring, JUnit Testing
+
+   - Javascript
+        HTML, CSS & React.js 
+
+   - Typescript
+        Angular
+
+   - SQL
+        MySQL, SQLite, PostgreSQL, MongoDB
+
+   - REST
+
+   - GIT
+
+   - Agile Dev Methodology
+
+   - UML & ER Modeling
+
+   - Figma Prototyping
+
+    </br>
+
+📫 How to reach me: Mail[Mail]
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ado-wq)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[Mail] : adnankovacevic@live.se
