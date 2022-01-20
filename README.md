@@ -43,9 +43,9 @@ Technologies i have worked with and currently study:
 
    - Figma Prototyping
 
-    </br>
+ 
 
-📫 How to reach me: Mail[Mail]
+📫 How to reach me: adnankovacevic@live.se
 
 ---
 
@@ -53,4 +53,3 @@ Technologies i have worked with and currently study:
 
 
 
-[Mail] : adnankovacevic@live.se
