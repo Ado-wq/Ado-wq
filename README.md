@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm Adnan and i'm a system devlopment student at Teknikhögskolan, Gothenburg
+### Hi there 👋 
+## I'm Adnan and i'm a Full-stack developer student at Teknikhögskolan, Gothenburg
 
-i'm a system devlopment student
 
 Technologies i have worked with and currently study:
 
