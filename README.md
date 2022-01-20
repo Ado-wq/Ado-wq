@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 
-## I'm Adnan and i'm a Full-stack developer student at Teknikhögskolan, Gothenburg
+### I'm Adnan and i'm a Full-stack developer student at Teknikhögskolan, Gothenburg
 
 
 Technologies i have worked with and currently study:
@@ -49,7 +49,10 @@ Technologies i have worked with and currently study:
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ado-wq)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ado-wq,count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ado-wq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
