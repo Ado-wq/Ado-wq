@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 ### I'm Adnan and i'm a Full-stack developer student at Teknikhögskolan, Gothenburg
 
-
+---
 Technologies i have worked with and currently study:
 
    - Java 
